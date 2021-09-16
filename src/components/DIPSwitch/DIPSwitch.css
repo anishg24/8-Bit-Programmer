@@ -1,0 +1,22 @@
+.dip-housing{
+    background-color: red;
+    border-radius: 5px;
+}
+
+.dip-switch {
+    padding: 0.25vw;
+}
+
+.dip-number-label {
+    color: white;
+    font-size: 1.5em;
+}
+
+.dip-label {
+    font-size: 0.5em;
+    color: white;
+}
+
+.lock-icon {
+    top: 100px;
+}

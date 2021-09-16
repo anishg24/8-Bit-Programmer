@@ -1,0 +1,23 @@
+.info-text {
+    text-align: center;
+    vertical-align: middle;
+}
+.binary-text {
+    font-family: Monospaced, monospace;
+}
+
+.dip-input {
+    display: inline-table;
+}
+
+.offcanvas-start {
+    width:33vw;
+}
+
+.active-op {
+    background-color: #0dcaf0;
+}
+
+.op-icon {
+    cursor: pointer;
+}
